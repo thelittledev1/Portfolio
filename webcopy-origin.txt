@@ -1,0 +1,372 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/66a5f61b61b9f0a48636c965/66a5f61b61b9f0a48636c9f7_Reviews1.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66a5f61b61b9f0a48636c965\66a5f61b61b9f0a48636c9f7_Reviews1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66a5f61b61b9f0a48636c965/66a5f61b61b9f0a48636ca00_Reviews3.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66a5f61b61b9f0a48636c965\66a5f61b61b9f0a48636ca00_Reviews3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66a5f61b61b9f0a48636c965/66a5f61b61b9f0a48636ca05_Reviews2.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66a5f61b61b9f0a48636c965\66a5f61b61b9f0a48636ca05_Reviews2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66eda2f56153109147f7ad40/66eda3d305b0cb7dfeba9691_Favicon.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66eda2f56153109147f7ad40\66eda3d305b0cb7dfeba9691_Favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66eda2f56153109147f7ad40/66eda3d60ab36418ccc902ad_Webclip.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66eda2f56153109147f7ad40\66eda3d60ab36418ccc902ad_Webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66eda2f56153109147f7ad6a/66eda2f56153109147f7ae06_666677f7a77d1675dc8c7cf6_652428b898a7708967d0a1d1_Boards-Environment.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66eda2f56153109147f7ad6a\66eda2f56153109147f7ae06_666677f7a77d1675dc8c7cf6_652428b898a7708967d0a1d1_Boards-Environment.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66eda2f56153109147f7ad6a/66ee33205f86eac54311565c_Plastic-Pouch.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66eda2f56153109147f7ad6a\66ee33205f86eac54311565c_Plastic-Pouch.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8146_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8146_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8148_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8148_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a814a_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a814a_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a814e_Vectors-Wrapper.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a814e_Vectors-Wrapper.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8158_arrow_outward.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8158_arrow_outward.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815a_instagram-p-500.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815a_instagram-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815a_instagram.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815a_instagram.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815d_arrow_out.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815d_arrow_out.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815e_Sticker-Mockup-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815e_Sticker-Mockup-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815e_Sticker-Mockup-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815e_Sticker-Mockup-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815e_Sticker-Mockup-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815e_Sticker-Mockup-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a815e_Sticker-Mockup.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a815e_Sticker-Mockup.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8161_tiktok-p-500.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8161_tiktok-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8161_tiktok.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8161_tiktok.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a817d_logowithname1.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a817d_logowithname1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8180_load.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8180_load.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8184_logowithname3.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8184_logowithname3.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8198_logowithname2.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8198_logowithname2.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a81e0_youtubeicon-p-500.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a81e0_youtubeicon-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a81e0_youtubeicon.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a81e0_youtubeicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a81e1_Wall-Hanging-Poster-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a81e1_Wall-Hanging-Poster-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a81e1_Wall-Hanging-Poster-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a81e1_Wall-Hanging-Poster-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a81e1_Wall-Hanging-Poster-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a81e1_Wall-Hanging-Poster-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a81e1_Wall-Hanging-Poster.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a81e1_Wall-Hanging-Poster.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8253_Poster_Mockup-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8253_Poster_Mockup-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8253_Poster_Mockup-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8253_Poster_Mockup-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8253_Poster_Mockup-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8253_Poster_Mockup-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8253_Poster_Mockup.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8253_Poster_Mockup.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8255_iDesigner-p-500.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8255_iDesigner-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8255_iDesigner.png
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8255_iDesigner.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8256_Quote.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8256_Quote.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a825b_ParallaxImage-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a825b_ParallaxImage-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a825b_ParallaxImage-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a825b_ParallaxImage-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a825b_ParallaxImage-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a825b_ParallaxImage-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a825b_ParallaxImage.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a825b_ParallaxImage.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8266_vr-lady-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8266_vr-lady-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8266_vr-lady-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8266_vr-lady-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8266_vr-lady.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8266_vr-lady.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8268_fingerprint.svg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8268_fingerprint.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8269_CreativeDesignStudioX-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8269_CreativeDesignStudioX-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8269_CreativeDesignStudioX-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8269_CreativeDesignStudioX-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8269_CreativeDesignStudioX-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8269_CreativeDesignStudioX-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a8269_CreativeDesignStudioX.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a8269_CreativeDesignStudioX.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a826a_AppleWatch-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a826a_AppleWatch-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a826a_AppleWatch-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a826a_AppleWatch-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a826a_AppleWatch-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a826a_AppleWatch-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/66f629d681ac33b5c79a826a_AppleWatch.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\66f629d681ac33b5c79a826a_AppleWatch.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/css/idesigner-lite-template.webflow.5ab8cb48e.css
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\css\idesigner-lite-template.webflow.5ab8cb48e.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a812c/js/webflow.feb74e904.js
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a812c\js\webflow.feb74e904.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a8150_666677f7a77d1675dc8c7cef_6524c082705c043b37259c84_Highest-Quality-Mockup.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a8150_666677f7a77d1675dc8c7cef_6524c082705c043b37259c84_Highest-Quality-Mockup.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a8175_666677f7a77d1675dc8c7cee_6524c082705c043b37259c84_Highest-Quality-Mockup.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a8175_666677f7a77d1675dc8c7cee_6524c082705c043b37259c84_Highest-Quality-Mockup.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a8195_666677f7a77d1675dc8c7cf7_652428d9350f46943be61ba1_Wall-Hanging-Poster.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a8195_666677f7a77d1675dc8c7cf7_652428d9350f46943be61ba1_Wall-Hanging-Poster.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a8245_666677f7a77d1675dc8c7cf9_6524c04b704715d59d9b1ef9_Book-Box.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a8245_666677f7a77d1675dc8c7cf9_6524c04b704715d59d9b1ef9_Book-Box.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a8259_666677f7a77d1675dc8c7cfb_652428cf091c960dbb34ddef_iPhone-14-Pro.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a8259_666677f7a77d1675dc8c7cfb_652428cf091c960dbb34ddef_iPhone-14-Pro.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a8274_666677f7a77d1675dc8c7cfa_6524c05d741496aac0351330_Plastic-Pouch.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a8274_666677f7a77d1675dc8c7cfa_6524c05d741496aac0351330_Plastic-Pouch.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828c_666677f7a77d1675dc8c7cfb_652428cf091c960dbb34ddef_iPhone-14-Pro.jpeg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828c_666677f7a77d1675dc8c7cfb_652428cf091c960dbb34ddef_iPhone-14-Pro.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828d_BoardMockup.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828d_BoardMockup.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828d_Board_Mockup-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828d_Board_Mockup-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828d_Board_Mockup-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828d_Board_Mockup-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828d_Board_Mockup-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828d_Board_Mockup-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828e_PosterMockup-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828e_PosterMockup-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828e_PosterMockup-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828e_PosterMockup-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828e_PosterMockup-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828e_PosterMockup-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828e_PosterMockup.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828e_PosterMockup.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828f_Boards-Environment-p-1080.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828f_Boards-Environment-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828f_Boards-Environment-p-500.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828f_Boards-Environment-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828f_Boards-Environment-p-800.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828f_Boards-Environment-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/66f629d681ac33b5c79a8143/66f629d681ac33b5c79a828f_Boards-Environment.jpg
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\66f629d681ac33b5c79a8143\66f629d681ac33b5c79a828f_Boards-Environment.jpg
+Content Type: image/jpeg
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66f629d681ac33b5c79a812c
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://idesigner-lite-template.webflow.io/
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/about
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\about.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/contact
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\contact.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/privacy-policy
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\privacy-policy.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/terms-conditions
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\terms-conditions.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/utilties/changelog
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\utilties\changelog.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/utilties/instructions
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\utilties\instructions.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/utilties/licenses
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\utilties\licenses.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/utilties/style-guide
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\utilties\style-guide.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works/brand-identity
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works\brand-identity.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works/development
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works\development.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works/digital-marketing
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works\digital-marketing.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works/marketing-strategy
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works\marketing-strategy.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works/software-solution
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works\software-solution.html
+Content Type: text/html
+
+Uri: https://idesigner-lite-template.webflow.io/works/website-redesign
+File Name: C:\Downloaded Web Sites\idesigner-lite-template.webflow.io\works\website-redesign.html
+Content Type: text/html
+
